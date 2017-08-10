@@ -3,6 +3,8 @@ bower_components
 .tmp
 .sass-cache
 builds
+dist/js
+dist/css
 
 ## START NODE LIST
 
